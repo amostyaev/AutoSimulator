@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Симулятор автострады</string>
+
+    <string name="button_ok">OK</string>
+    <string name="button_slower">&lt;&lt;</string>
+    <string name="button_faster">&gt;&gt;</string>
+    <string name="button_cancel">Отмена</string>
+
+    <string name="menu_exit">Выход</string>
+    <string name="menu_options">Настройки</string>
+    <string name="menu_restart">Перезапуск</string>
+    <string name="menu_statistics">Статистика</string>
+
+    <string name="options_dialog_title">Настройки</string>
+    <string name="options_initial_speed">Начальная скорость</string>
+    <string name="options_from">От</string>
+    <string name="options_to">до</string>
+    <string name="options_lines_count">Количество полос</string>
+    <string name="options_auto_generation">Создание машин</string>
+    <string name="options_every">Каждые</string>
+    <string name="options_iterations">итераций</string>
+    <string name="options_force_stop">Принудительная остановка</string>
+    <string name="options_force_stop_speed">Изменить скорость до</string>
+    <string name="options_for">на</string>
+    <string name="options_speed">Скорость</string>
+    <string name="options_speed_stop">Торможение</string>
+    <string name="options_speed_boost">Ускорение</string>
+
+    <string name="statistics_dialog_title">Статистика</string>
+    <string name="statistics_autos_created">Машин создано:</string>
+    <string name="statistics_autos_done">Машин проехало:</string>
+    <string name="statistics_crashes">Аварии:</string>
+    <string name="statistics_force_stops">Принудительные остановки:</string>
+    <string name="statistics_crash_percent">Процент аварий:</string>
+
+</resources>

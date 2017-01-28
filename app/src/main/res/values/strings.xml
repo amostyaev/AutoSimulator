@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Highway Simulator</string>
+
+    <string name="button_ok">OK</string>
+    <string name="button_slower">&lt;&lt;</string>
+    <string name="button_faster">&gt;&gt;</string>
+    <string name="button_cancel">Cancel</string>
+
+    <string name="menu_exit">Exit</string>
+    <string name="menu_options">Options</string>
+    <string name="menu_restart">Restart</string>
+    <string name="menu_statistics">Statistics</string>
+
+    <string name="options_dialog_title">Options</string>
+    <string name="options_initial_speed">Initial speed</string>
+    <string name="options_from">From</string>
+    <string name="options_to">to</string>
+    <string name="options_lines_count">Lines count</string>
+    <string name="options_auto_generation">Auto generation</string>
+    <string name="options_every">Every</string>
+    <string name="options_iterations">iterations</string>
+    <string name="options_force_stop">Force stop</string>
+    <string name="options_force_stop_speed">Change speed to</string>
+    <string name="options_for">for</string>
+    <string name="options_speed">Speed</string>
+    <string name="options_speed_stop">Stop</string>
+    <string name="options_speed_boost">Boost</string>
+
+    <string name="statistics_dialog_title">Statistics</string>
+    <string name="statistics_autos_created">Autos created:</string>
+    <string name="statistics_autos_done">Autos done:</string>
+    <string name="statistics_crashes">Crashes:</string>
+    <string name="statistics_force_stops">Force stops:</string>
+    <string name="statistics_crash_percent">Crash percent:</string>
+
+</resources>
